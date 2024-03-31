@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.task{
+  margin: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.taskText:hover{
+  cursor: pointer;
+}
+
+.form{
+  display: flex;
+  gap: 40px;
+}
